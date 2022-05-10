@@ -1,0 +1,11 @@
+*.py[cod]
+__pycache__
+.python-version
+.ropeproject
+*~
+*.swp
+
+# 3D assets
+*.scad
+*.stl
+contrib/
